@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+*.idb
+*.pdb
+
+Debug
+Release
+
+#IDE
+.vscode
+.vs
+.idea/
